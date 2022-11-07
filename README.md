@@ -6,7 +6,10 @@
 
 <p align="justify">
   <br>
-  Construction of a basic database in order to manage a fictional academy of Mixed Martial Arts (MMA) fighters. Project taught by <a href="https://unesp.br/portaldocentes/docentes/345">PhD Aparecido Nilceu Marana</a> from São Paulo State University (Unesp), discipline Database II. Code starts from "<b>TelaUm</b>".  
+  Construction of a basic database in order to manage a fictional academy of Mixed Martial Arts (MMA) fighters. Project taught by <a href="https://unesp.br/portaldocentes/docentes/345">PhD Aparecido Nilceu Marana</a> from São Paulo State University (Unesp), discipline Database II. 
+ <br>
+ <br>
+ Code starts from "<b>TelaUm</b>".  
 </p>
 
 <hr>
