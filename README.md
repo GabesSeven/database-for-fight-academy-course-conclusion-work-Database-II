@@ -1,4 +1,30 @@
-# Banco-de-Dados-II-7-semestre
-Projeto relacionado a disciplina Banco de Dados II lecionada pelo professor doutor Aparecido Nilceu Marana. Objetivo do projeto se realizou ao montar um BD para acadêmia fictícia de lutadores de MMA, utilizando as linguagens de programação Java e SQL.
+<h1 align="center">Database for fight academy - course conclusion work Database II</h1>
 
-Código se inicia a partir da "TelaUm".
+<hr>
+
+## 📋 Project description
+
+<p align="justify">
+  <br>
+  Construction of a basic database in order to manage a fictional academy of Mixed Martial Arts (MMA) fighters. Project taught by <a href="https://unesp.br/portaldocentes/docentes/345">PhD Aparecido Nilceu Marana</a> from São Paulo State University (Unesp), discipline Database II. Code starts from "<b>TelaUm</b>".  
+</p>
+
+<hr>
+
+## 📁 Project access
+
+You can [access the project's source code](https://github.com/GabesSeven/kernel-DOS-course-conclusion-work-Operating-Systems-II/) or [download it](https://github.com/GabesSeven/kernel-DOS-course-conclusion-work-Operating-Systems-II/archive/refs/heads/main.zip).
+
+## ✔️ Techniques and technologies used
+
+- ``Java``
+- ``MySQL``
+- ``Oracle Database``
+
+
+## 🧑‍💻 Developer
+
+| [<img src="https://avatars.githubusercontent.com/u/37443722?v=4" width=115><br><sub>Gabriel Ferreira</sub>](https://github.com/GabesSeven)
+| :---: 
+
+
