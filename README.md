@@ -18,12 +18,15 @@
 
 You can [access the project's source code](https://github.com/GabesSeven/database-for-fight-academy-course-conclusion-work-Database-II/) or [download it](https://github.com/GabesSeven/database-for-fight-academy-course-conclusion-work-Database-II/archive/refs/heads/main.zip).
 
+<hr>
+
 ## ✔️ Techniques and technologies used
 
 - ``Java``
 - ``MySQL``
 - ``Oracle Database``
 
+<hr>
 
 ## 🧑‍💻 Developer
 
