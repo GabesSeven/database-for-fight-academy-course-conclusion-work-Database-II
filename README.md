@@ -16,7 +16,7 @@
 
 ## 📁 Project access
 
-You can [access the project's source code](https://github.com/GabesSeven/kernel-DOS-course-conclusion-work-Operating-Systems-II/) or [download it](https://github.com/GabesSeven/kernel-DOS-course-conclusion-work-Operating-Systems-II/archive/refs/heads/main.zip).
+You can [access the project's source code](https://github.com/GabesSeven/database-for-fight-academy-course-conclusion-work-Database-II/) or [download it](https://github.com/GabesSeven/database-for-fight-academy-course-conclusion-work-Database-II/archive/refs/heads/main.zip).
 
 ## ✔️ Techniques and technologies used
 
